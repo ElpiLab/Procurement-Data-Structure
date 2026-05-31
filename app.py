@@ -44,3 +44,6 @@ elif option == 'Queues (Ticket Routing)':
 else:
     st.warning(f"Visualizer for {option} is under construction!")
     st.write("*This module will demonstrate the algorithmic efficiency of the selected structure.*")
+
+
+# streamlit run app.py
